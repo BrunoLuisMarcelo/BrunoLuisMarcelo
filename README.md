@@ -1,4 +1,4 @@
-<p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="/assets/perfil-trybe-1.png" ></p>
+
 
 <div>
   <h1 align="center"Hello! How are you? 😃️</h1>
